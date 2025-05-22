@@ -1,5 +1,7 @@
 newline1
 newline2
+line1
+line2
 l3
 l4
 l5
