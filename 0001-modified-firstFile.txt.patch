@@ -1,0 +1,24 @@
+From 8a2740207c3f07cb6f98de4cabbe64ce35d2437b Mon Sep 17 00:00:00 2001
+From: Merab Kardava <merab.kardava.1@btu.edu.ge>
+Date: Thu, 22 May 2025 08:14:19 +0400
+Subject: [PATCH] modified firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 4083766..6195f26 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-line1
+-line2
++newline1
++newline2
+ line3
+ line4
+ line5
+-- 
+2.39.1.windows.1
+
