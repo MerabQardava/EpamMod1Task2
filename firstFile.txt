@@ -4,6 +4,10 @@ line3
 line4
 file1Line5
 file1Line6
+file2Line4
+file2Line5
+line5
+line6
 line7
 line8
 newline9
