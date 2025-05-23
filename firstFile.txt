@@ -1,7 +1,7 @@
 newline1
 newline2
-line3
-line4
+file2Line4
+file2Line5
 line5
 line6
 line7
